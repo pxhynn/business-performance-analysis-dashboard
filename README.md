@@ -68,8 +68,8 @@ DIVIDE([Total Sales] - SalesLastYear, SalesLastYear, 0)
 
 ### 4.1. Core Global Key Performance Indicators (KPIs)
 Quantitative evaluation of the deployed analytical dashboard registers highly robust macromarket metrics:
-* **Aggregate Sales Volume ($\text{TS}$):** `\$29.36M`
-* **Net Realized Profit ($\text{TP}$):** `\$12.08M`
+* **Aggregate Sales Volume ($\text{TS}$):** `$29.36M`
+* **Net Realized Profit ($\text{TP}$):** `$12.08M`
 * **Calculated Operational Gross Margin:** `41.14%`
 * **Logistical Throughput:** `27.66K` total processed orders
 * **Longitudinal Momentum:** An exceptional Year-Over-Year growth rate of **`49.88%`**.
