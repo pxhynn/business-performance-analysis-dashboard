@@ -54,7 +54,7 @@ $$\text{Profit Margin} = \left( \frac{\text{Total Profit}}{\text{Total Sales}} \
 
 ### 3.3. Year-Over-Year (YoY) Growth Coefficient
 A time-intelligence vector translation computing the dynamic rate of change between the current temporal interval ($t$) and its historical shifted counterpart ($t-1$):
-$$\text{YoY Growth \%} = \frac{\text{Sales This Year}_t - \text{Sales Last Year}_{t-1}}{\text{Sales Last Year}_{t-1}} \times 100\%$$
+$$\text{YoY Growth} = \left( \frac{\text{Sales This Year}\_t - \text{Sales Last Year}\_{t-1}}{\text{Sales Last Year}\_{t-1}} \right) \times 100\%$$
 
 *Production DAX Implementation:*
 ```dax
@@ -76,16 +76,16 @@ Quantitative evaluation of the deployed analytical dashboard registers highly ro
 
 ### 4.2. Structural Decomposition & Correlative Discoveries
 
-> ### 🌐 Asymmetry in Geographic Performance
-> Spatial evaluation reveals that the **United States** and **Australia** act as the primary economic powerhouses for the enterprise. These two territories generate dominant profit densities, drastically overshadowing the consolidated yields of the European sectors (United Kingdom, Germany, France) and Canada.
+ ### Asymmetry in Geographic Performance
+ Spatial evaluation reveals that the **United States** and **Australia** act as the primary economic powerhouses for the enterprise. These two territories generate dominant profit densities, drastically overshadowing the consolidated yields of the European sectors (United Kingdom, Germany, France) and Canada.
 
-> ### 🚲 The Category-Profit Paradox
-> Granular cross-filtering uncovers a profound non-linear correlation between transaction frequencies and net financial yields:
-> * **United States Market:** The *Accessories* sector exhibits the maximum transaction frequency (highest order count). However, the **Bikes** sector controls high-density profit vectors, accounting for **over 90%** of net national profit.
-> * **Australian Market:** Conversely, no paradox is observed in Australia; **Bikes** maintain absolute dominance, simultaneously leading both logistical throughput (order volume) and capital yield.
+ ### The Category-Profit Paradox
+ Granular cross-filtering uncovers a profound non-linear correlation between transaction frequencies and net financial yields:
+ * **United States Market:** The *Accessories* sector exhibits the maximum transaction frequency (highest order count). However, the **Bikes** sector controls high-density profit vectors, accounting for **over 90%** of net national profit.
+ * **Australian Market:** Conversely, no paradox is observed in Australia; **Bikes** maintain absolute dominance, simultaneously leading both logistical throughput (order volume) and capital yield.
 
-> ### 📈 Temporal Seasonality and Macro-waves
-> Time-series inspection reveals a highly predictable, recurring seasonal macro-wave. Gross revenue and net profit systematically display asymmetric distribution, consistently peaking during the **latter half of each fiscal year (Q3 and Q4)**, revealing rigid cyclical buying behavior.
+###  Temporal Seasonality and Macro-waves
+ Time-series inspection reveals a highly predictable, recurring seasonal macro-wave. Gross revenue and net profit systematically display asymmetric distribution, consistently peaking during the **latter half of each fiscal year (Q3 and Q4)**, revealing rigid cyclical buying behavior.
 
 ---
 
